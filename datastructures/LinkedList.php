@@ -75,5 +75,8 @@ class LinkedList {
             $prev_node = $delete_node;
             $delete_node = $delete_node->next;
         }
+        if($all && $this->head !== null) {
+            $this->delete($this->head->value, $all);
+        }
     }
 }
