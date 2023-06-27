@@ -71,12 +71,13 @@ class LinkedList {
                         $this->tail = null;
                     }
                 }
+                if($all && $delete_node !== null) {
+                    $this->delete($val, $all);
+                }
+                return;
             }
             $prev_node = $delete_node;
             $delete_node = $delete_node->next;
-        }
-        if($all && $this->head !== null) {
-            $this->delete($this->head->value, $all);
         }
     }
 }
