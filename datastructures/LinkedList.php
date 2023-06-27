@@ -75,21 +75,5 @@ class LinkedList {
             $prev_node = $delete_node;
             $delete_node = $delete_node->next;
         }
-        return;
     }
 }
-
-$s_list = new LinkedList();
-$n1 = new ListNode(0);
-$n2 = new ListNode(3);
-$n3 = new ListNode(5);
-$n4 = new ListNode(2);
-$n5 = new ListNode(7);
-$s_list->add_in_tail($n1);
-$s_list->add_in_tail($n2);
-$s_list->add_in_tail($n3);
-$s_list->add_in_tail($n4);
-$s_list->add_in_tail($n5);
-$s_list->delete(5, true);
-$s_list->print_all_nodes();
-
