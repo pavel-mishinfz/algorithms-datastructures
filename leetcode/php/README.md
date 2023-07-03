@@ -15,3 +15,6 @@
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[PHP](https://github.com/pavel-mishinfz/algorithms-datastructures/blob/main/leetcode/php/linked-list-cycle-ii.php/)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[PHP](https://github.com/pavel-mishinfz/algorithms-datastructures/blob/main/leetcode/php/reverse-string.php/)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[PHP](https://github.com/pavel-mishinfz/algorithms-datastructures/blob/main/leetcode/php/move-zeroes.php/)|Easy|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[PHP](https://github.com/pavel-mishinfz/algorithms-datastructures/blob/main/leetcode/php/remove-duplicates-from-sorted-array-ii.php/)|Medium|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[PHP](https://github.com/pavel-mishinfz/algorithms-datastructures/blob/main/leetcode/php/partition-list.php/)|Medium|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[PHP](https://github.com/pavel-mishinfz/algorithms-datastructures/blob/main/leetcode/php/reorder-list.php/)|Medium|
